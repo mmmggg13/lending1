@@ -22,7 +22,7 @@
   "homepage": "https://github.com/mmmggg13/lending1#readme",
   "devDependencies": {
     "browser-sync": "^2.26.7",
-    "browserslist": "^4.11.1",
+    "browserslist": "^4.16.5",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-pug": "^4.0.1",
